@@ -1,3 +1,4 @@
+## Rotary Encoder FPGA design with VHDL
 ## Soal
 1. Buatlah resume tentang rotary encoder. Macam-macam rotary encoder dan cara kerjanya. 
 2. Buatlah rangkaian digital dengan kode vhdl untuk membaca incremental rotary encoder dengan menggunakan board DE10 Lite yang ditampilkan dalam 3 buah 7-segment. 
