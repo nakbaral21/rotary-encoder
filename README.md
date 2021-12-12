@@ -11,3 +11,4 @@
 3. do testbench file :
    - [ ] Searah Jarum Jam di https://github.com/nakbaral21/rotary-encoder/blob/main/rotary_encoder/simulation/modelsim/tb_rotaryenc1.do
    - [ ] Berlawanan Arah Jarum Jam di https://github.com/nakbaral21/rotary-encoder/blob/main/rotary_encoder/simulation/modelsim/tb_rotaryenc2.do
+4. Laporan di https://github.com/nakbaral21/rotary-encoder/blob/main/Laporan.pdf
